@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="assets/alexander-shatov-JlO3-oY5ZlQ-unsplash.jpg" alt="Illustration streaming musical" width="100%">
+  <img src="assets/alexander-shatov-JlO3-oY5ZlQ.jpg" alt="Illustration streaming musical" width="100%">
 </p>
 
 <p align="center"><sub>Photo : <a href="https://unsplash.com/@alexbemore">Alexander Shatov</a> — Unsplash</sub></p>
 
 # Spotify Data Governance Framework
 
-> Étude de cas conceptuelle — Conception d'un cadre de gouvernance de données conforme, centré utilisateur et scalable.
+> Conception et pilotage d'un cadre de gouvernance de données conforme, centré utilisateur et scalable.
 
 ![Projet](https://img.shields.io/badge/Projet-Data%20Governance-0E7C86?style=flat-square)
 ![Jedha](https://img.shields.io/badge/Jedha-Lead%20Data%20Science%20%26%20Engineering-1DB954?style=flat-square)
@@ -28,13 +28,22 @@
 
 ---
 
-> ### ℹ️ À propos de ce dépôt
->
-> Projet **académique et conceptuel**, réalisé dans le cadre de la formation **Jedha — Lead Data Science & Engineering** (Bloc 1 — Architecte en Intelligence Artificielle, RNCP niveau 7).
->
-> **Non affilié à Spotify AB.** Aucune donnée réelle, interne ou propriétaire n'est utilisée : Spotify sert d'**entreprise-support hypothétique**, choisie pour son échelle et sa complexité, afin d'illustrer la conception d'un cadre de gouvernance de données. Les constats, chiffres d'ordre de grandeur et recommandations relèvent de l'exercice pédagogique et n'engagent que leur auteur.
->
-> **Aucun code exécutable.** Ce dépôt est un livrable de type **conseil / architecture**, rédigé intégralement en Markdown.
+## Contexte du projet
+
+Projet réalisé dans le cadre de la formation **Jedha — Lead Data Science & Engineering** (Bloc 1 — Architecte en Intelligence Artificielle, RNCP niveau 7).
+
+**Rôle :** Data Governance Specialist pour Spotify.
+
+**Objectif :** concevoir et piloter un cadre de gouvernance de données garantissant la conformité **RGPD**, **CCPA** et **PCI-DSS**, tout en améliorant la qualité des données et l'efficacité opérationnelle à l'échelle des opérations mondiales de Spotify.
+
+**Projet hands-on**, structuré autour de quatre livrables :
+
+| # | Livrable |
+|:--|:---------|
+| 1 | Politique de gouvernance des données |
+| 2 | Rôles & responsabilités organisationnels |
+| 3 | Plan d'implémentation |
+| 4 | Présentation finale aux parties prenantes |
 
 ---
 
@@ -45,7 +54,7 @@ Spotify est un leader technologique dont les algorithmes de recommandation et l'
 Ce livrable propose un **cadre de gouvernance conforme, centré utilisateur et scalable**, structuré autour de six principes directeurs, d'une conformité RGPD/CCPA *by design*, d'une chaîne de qualité outillée (catalogue, tests, monitoring) et d'un **modèle organisationnel en Centre d'Excellence (CoE)** — équipe centrale d'experts épaulée par des champions métiers dans chaque département. Sa mise en œuvre est déclinée en un **pilote en trois phases**, assorti de KPIs de succès, d'une gestion des risques et de critères de validation explicites avant généralisation.
 
 <p align="center">
-  <img src="assets/andrik-langfield-uPfyxkwA3RM-unsplash.jpg" alt="Utilisateur à l'écoute au casque" width="100%">
+  <img src="assets/andrik-langfield-uPfyxkwA3RM.jpg" alt="Utilisateur à l'écoute au casque" width="100%">
 </p>
 
 <p align="center"><em>Une gouvernance centrée utilisateur : transparence, contrôle et confiance.</em><br>
@@ -120,5 +129,3 @@ spotify-data-governance/
 ## Licence
 
 Distribué sous licence **MIT** — voir [LICENSE](LICENSE).
-
-Les visuels du dossier `assets/` proviennent d'[Unsplash](https://unsplash.com) et restent soumis à la [licence Unsplash](https://unsplash.com/license). Les marques et noms cités (Spotify, DataHub, Apache Airflow, etc.) appartiennent à leurs détenteurs respectifs et ne sont mentionnés qu'à titre illustratif.
