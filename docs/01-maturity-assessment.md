@@ -8,7 +8,7 @@
 
 ## 1.1 Spotify Data Landscape : maturité actuelle
 
-Spotify, leader du streaming, traite chaque jour des **milliards de points de données** : écoutes, abonnements, publicités, métadonnées de catalogue. Ses algorithmes de recommandation et son infrastructure cloud lui donnent une avance concurrentielle nette sur le marché.
+Spotify, leader du streaming, traite chaque jour des **volumes massifs de données** : écoutes, abonnements, publicités, métadonnées de catalogue. Ses algorithmes de recommandation et son infrastructure cloud lui donnent une avance concurrentielle nette sur le marché.
 
 Mais malgré cette puissance technologique, Spotify n'opère qu'au **niveau « proactif »** de maturité data — faute de **standardisation** et d'**optimisation** de ses processus de gestion à l'échelle de l'organisation. Autrement dit : les bonnes pratiques existent, portées par des équipes compétentes, mais elles restent locales, hétérogènes et non consolidées en un cadre d'entreprise.
 

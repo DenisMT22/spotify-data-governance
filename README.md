@@ -55,7 +55,7 @@ Spotify, fondée en **2006 à Stockholm (Suède)**, a transformé l'industrie mu
 
 **Rôle :** Data Governance Specialist pour Spotify.
 
-**Objectif :** concevoir et piloter un cadre de gouvernance de données garantissant la conformité **RGPD**, **CCPA** et **PCI-DSS**, tout en améliorant la qualité des données et l'efficacité opérationnelle à l'échelle des opérations mondiales de Spotify.
+**Objectif :** concevoir et piloter un cadre de gouvernance de données garantissant la conformité **RGPD** et **CCPA**, tout en améliorant la qualité des données et l'efficacité opérationnelle à l'échelle des opérations mondiales de Spotify.
 
 **Projet hands-on**, structuré autour de quatre livrables :
 
