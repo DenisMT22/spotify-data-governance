@@ -32,6 +32,27 @@
 
 Projet réalisé dans le cadre de la formation **Jedha — Lead Data Science & Engineering** (Bloc 1 — Architecte en Intelligence Artificielle, RNCP niveau 7).
 
+### L'entreprise
+
+Spotify, fondée en **2006 à Stockholm (Suède)**, a transformé l'industrie musicale en devenant la pionnière du streaming musical. La plateforme propose une vaste bibliothèque de musique, de podcasts et de contenus audio, et s'appuie sur une approche *data-driven* pour personnaliser l'expérience utilisateur, cibler ses campagnes marketing et piloter sa curation de contenu.
+
+| | |
+|:--|:--|
+| **Fondation** | 2006 — Stockholm, Suède |
+| **Utilisateurs actifs** | Plus de **450 millions** (données 2023) |
+| **Abonnés premium** | **200 millions** |
+| **Présence** | Plus de **180 pays**, avec des stratégies de contenu localisées |
+| **Modèle économique** | Offre **gratuite** (financée par la publicité) et offre **premium** (sans publicité) |
+| **Sources de revenus** | Publicité et abonnements |
+
+### L'écosystème data
+
+- **Données produites quotidiennement** — logs d'activité (titres écoutés, playlists créées, requêtes de recherche), métadonnées associées aux tracks et podcasts, données démographiques, détails d'abonnement, informations de facturation, métriques d'engagement des campagnes marketing.
+- **Moteur de recommandation** — s'appuie fortement sur des algorithmes de **machine learning** analysant les données utilisateurs pour suggérer musiques et podcasts personnalisés.
+- **Infrastructure** — combinaison de **data lakes**, de **bases de données relationnelles** et de **stockage cloud**, avec ingestion, traitement et analyse **en temps réel**.
+
+### La mission
+
 **Rôle :** Data Governance Specialist pour Spotify.
 
 **Objectif :** concevoir et piloter un cadre de gouvernance de données garantissant la conformité **RGPD**, **CCPA** et **PCI-DSS**, tout en améliorant la qualité des données et l'efficacité opérationnelle à l'échelle des opérations mondiales de Spotify.
@@ -49,7 +70,7 @@ Projet réalisé dans le cadre de la formation **Jedha — Lead Data Science & E
 
 ## Résumé exécutif
 
-Spotify est un leader technologique dont les algorithmes de recommandation et l'infrastructure cloud constituent un avantage concurrentiel réel. Pourtant, en matière de gouvernance de données, l'organisation n'opère qu'au niveau **« proactif »** : les bonnes pratiques existent, mais elles ne sont ni standardisées ni optimisées à l'échelle de l'entreprise. Il en résulte une gouvernance **fragmentée** — silos entre Marketing, Finance, Ops et Sales, qualité inégale, conformité variable d'un pays à l'autre — alors même que la plateforme sert plus de 450 millions d'utilisateurs répartis dans plus de 180 juridictions.
+Spotify est un leader technologique dont les algorithmes de recommandation et l'infrastructure cloud constituent un avantage concurrentiel réel. Pourtant, en matière de gouvernance de données, l'organisation n'opère qu'au niveau **« proactif »** : les bonnes pratiques existent, mais elles ne sont ni standardisées ni optimisées à l'échelle de l'entreprise. Il en résulte une gouvernance **fragmentée** — silos entre Marketing, Développement produit, Curation de contenu et Engineering, qualité inégale, conformité variable d'un pays à l'autre — alors même que la plateforme sert plus de 450 millions d'utilisateurs répartis dans plus de 180 juridictions.
 
 Ce livrable propose un **cadre de gouvernance conforme, centré utilisateur et scalable**, structuré autour de six principes directeurs, d'une conformité RGPD/CCPA *by design*, d'une chaîne de qualité outillée (catalogue, tests, monitoring) et d'un **modèle organisationnel en Centre d'Excellence (CoE)** — équipe centrale d'experts épaulée par des champions métiers dans chaque département. Sa mise en œuvre est déclinée en un **pilote en trois phases**, assorti de KPIs de succès, d'une gestion des risques et de critères de validation explicites avant généralisation.
 
@@ -97,6 +118,7 @@ Ce livrable propose un **cadre de gouvernance conforme, centré utilisateur et s
 - 🎓 **Certification Jedha** — [Lead Data Science & Engineering · RNCP 38777 (Bloc 1)](https://app.jedha.co/certifications/rncp38777bc01)
 - 📊 **Présentation du projet** — [Dossier Google Drive](https://drive.google.com/drive/folders/1adNCnlx-g_hUXuZ5t3RDlm3Htatq779w?usp=sharing)
 - 📄 **Présentation complète (PDF)** — [`assets/Spotify-Data-Governance.pdf`](assets/Spotify-Data-Governance.pdf)
+- 📄 **Business case (document source Jedha)** — [assets/business_case-2.pdf](assets/business_case-2.pdf)
 
 ---
 
@@ -111,8 +133,9 @@ spotify-data-governance/
 │   ├── 02-governance-framework.md     # Cadre de gouvernance
 │   └── 03-implementation-plan.md      # Plan d'implémentation
 └── assets/
+    ├── business_case-2.pdf            # Business case source (Jedha)
     ├── Spotify-Data-Governance.pdf    # Présentation complète
-    └── *.jpg                          # Visuels (crédits Unsplash)
+    └── *.jpg                          # Visuels
 ```
 
 ---

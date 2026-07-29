@@ -52,13 +52,14 @@ La croissance fulgurante de Spotify a fait de la donnée son **actif le plus pr�
 
 ### Défi 1 — Data Silos & Fragmentation
 
-**Description.** Les données sont dispersées entre les équipes **Marketing**, **Finance**, **Operations** et **Sales**, chacune opérant avec ses propres outils, conventions de nommage et référentiels. Aucune source de vérité unique ne permet de réconcilier ces périmètres.
+**Description.** La croissance rapide et l'expansion mondiale de Spotify ont fait émerger des silos de données au sein de l'organisation. Les départements **Marketing**, **Développement produit**, **Curation de contenu** et **Engineering** gèrent chacun leurs propres jeux de données de manière indépendante, avec leurs outils, conventions de nommage et référentiels. Aucune source de vérité unique ne permet de réconcilier ces périmètres : le Marketing dispose par exemple d'une vision fine de l'engagement sur les contenus financés par la publicité, tandis que le Développement produit se concentre sur les interactions avec les fonctionnalités premium.
 
 **Risques et conséquences.**
 
-- **Vision utilisateur incomplète** — aucun département ne dispose d'une image consolidée du parcours client.
+- **Vision utilisateur incomplète** — aucun département ne dispose d'une image consolidée du parcours client, de la découverte de contenu à la conversion en abonnement.
 - **Duplication des efforts** — les mêmes indicateurs sont recalculés plusieurs fois, avec des résultats divergents.
-- **Décisions biaisées** — les arbitrages stratégiques reposent sur des vues partielles, parfois contradictoires.
+- **Décisions biaisées** — les arbitrages stratégiques reposent sur des vues partielles, parfois contradictoires, créant des angles morts dans la décision.
+- **Opportunités manquées** — la collaboration inter-départements est freinée faute de données partagées.
 
 ---
 

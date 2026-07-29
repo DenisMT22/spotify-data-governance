@@ -130,14 +130,14 @@ Sept rôles portent la gouvernance, du niveau stratégique au niveau opérationn
 | **1. Chief Data Officer (CDO)** | Stratégie globale des données · Supervision de la gouvernance · Diffusion d'une culture data-driven |
 | **2. Data Protection Officer (DPO)** | Conformité RGPD / CCPA · Gestion des violations de données · Formation à la confidentialité |
 | **3. Head of Engineering** | Infrastructure technique · Sécurité des systèmes · Architecture des données |
-| **4. Legal Team Lead** | Conseil juridique · Conformité réglementaire · Gestion des risques légaux |
+| **4. Legal Team** | Conseil juridique · Conformité réglementaire · Gestion des risques légaux |
 | **5. Marketing Director** | Utilisation éthique des données marketing · Segmentation conforme |
 | **6. Product Managers** | Mobilisation de données fiables au service de l'innovation produit |
 | **7. Data Stewards** | Qualité au quotidien · Catalogage · Documentation des données |
 
 ### Articulation des rôles
 
-- **Niveau stratégique** — CDO, DPO, Head of Engineering, Legal Team Lead : définissent le cadre, arbitrent et engagent l'organisation.
+- **Niveau stratégique** — CDO, DPO, Head of Engineering, Legal Team : définissent le cadre, arbitrent et engagent l'organisation.
 - **Niveau métier** — Marketing Director, Product Managers : appliquent le cadre dans leurs domaines et remontent les besoins.
 - **Niveau opérationnel** — Data Stewards : garants de la qualité et de la documentation au plus près des jeux de données.
 
