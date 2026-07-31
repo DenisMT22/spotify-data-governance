@@ -2,7 +2,7 @@
   <img src="assets/alexander-shatov-JlO3-oY5ZlQ.jpg" alt="Illustration streaming musical" width="100%">
 </p>
 
-<p align="center"><sub>Photo : <a href="https://unsplash.com/@alexbemore">Alexander Shatov</a> — Unsplash</sub></p>
+
 
 # Spotify Data Governance Framework
 
@@ -79,7 +79,7 @@ Ce livrable propose un **cadre de gouvernance conforme, centré utilisateur et s
 </p>
 
 <p align="center"><em>Une gouvernance centrée utilisateur : transparence, contrôle et confiance.</em><br>
-<sub>Photo : <a href="https://unsplash.com/@andriklangfield">Andrik Langfield</a> — Unsplash</sub></p>
+
 
 ---
 
